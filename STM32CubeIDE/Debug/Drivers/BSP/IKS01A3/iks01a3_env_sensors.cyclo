@@ -1,0 +1,12 @@
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:855:16:HTS221_0_Probe	12
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:1124:16:LPS22HH_0_Probe	12
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:1216:16:STTS751_0_Probe	10
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:138:9:IKS01A3_ENV_SENSOR_Init	26
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:585:9:IKS01A3_ENV_SENSOR_DeInit	3
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:611:9:IKS01A3_ENV_SENSOR_GetCapabilities	3
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:637:9:IKS01A3_ENV_SENSOR_ReadID	3
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:663:9:IKS01A3_ENV_SENSOR_Enable	4
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:699:9:IKS01A3_ENV_SENSOR_Disable	4
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:736:9:IKS01A3_ENV_SENSOR_GetOutputDataRate	4
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:773:9:IKS01A3_ENV_SENSOR_SetOutputDataRate	4
+C:/Users/Pc-portable/STM32Cube/Repository/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN/LoRaWAN_End_Node/Drivers/BSP/IKS01A3/iks01a3_env_sensors.c:810:9:IKS01A3_ENV_SENSOR_GetValue	4
